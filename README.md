@@ -1,4 +1,4 @@
-# HLS for HandWritten Digit Recognization
+# HLS for HandWritten Digit Recognition
 
 In this project we've used the following tools hls4ml,keras2c , vivado hls. 
 
